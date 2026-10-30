@@ -1,0 +1,79 @@
+﻿저장경로,제공파일_출처,처리메모,바이트,SHA256
+.gitignore,작성 문서,,270,3419957ad00f7fb70d1a5d432be85d91e8565ea5755c328f0d92ccae5daeef9d
+PROJECT_INSTRUCTIONS.md,작성 문서,,808,4e80b722fb04c5d5be3b07f70ed42bb9d7a2763a171b79ca185bd6644dd27f45
+README.md,작성 문서,,6026,cad3073f7c60337a49cd09653afdc14de7d599d9efb9a395e26581aa12cc6ad3
+data/README.md,작성 문서,,1202,0ffd717c4bb5797230cea9abcc759f23920c310e3b1076a2e710fe1ddc923a10
+docs/PRD_v0.2.docx,KB_6조_PRD_v0.2 (3).docx,제공본 보존; 최신 적용 기준은 현재상태 문서 참조,4870379,facf9af17049bfb837c3a73c00874e23f44944bf5e9e92490f38225a020ed777
+docs/archive/PROJECT_INSTRUCTIONS_initial.md,기존 GitHub/PROJECT_INSTRUCTIONS.md,초기 수집 지침; 현재 전체 지침 아님,7540,aecf32e13487bf2ec51fca870f000572db034ffbd4c624a637c15f5155b46afc
+docs/data_sources/부산_상권변화지표_API_명세서.docx,부산광역시_상권 변화지표정보서비스.docx,제공본 보존; 최신 적용 기준은 현재상태 문서 참조,332575,784e61000c7e11c19aca7a38b6352eec086b237bb7dbf2a8bb98b1245be107a7
+docs/features/인구방문관광_변수정의.md,이채우_3개자료_EDA_최종전달_20261028_164025.zip/00_변수정의_연결기준.md,,3558,bf052d7119d2c7880814ce2fa57a142fb8372e0eaf84ed51448ce51063714c06
+docs/features/파생지표_통합안.md,파생지표 통합안 (김이최) (1).md,제공본 보존; 최신 적용 기준은 현재상태 문서 참조,10966,56af3db7ca856f1680cc9513840762f4939c94d46397dd856a767015470fba43
+docs/modeling/모델링_진행_체크리스트.md,모델링_진행_체크리스트 (1).md,제공본 보존; 최신 적용 기준은 현재상태 문서 참조,12196,e7d8b60fae3fc0624971011a65aae8ee0c4f8cceb7374c651f2d094307805c80
+docs/preprocessing/real_estate/먼저읽기_팀전달.md,부동산_전처리_팀전달.zip/부동산_전처리_팀전달/먼저읽기_팀전달.md,,2751,ac716e804d85712793e058e536959bcf0ceefe4605f795de4b40c743da20cac2
+docs/preprocessing/real_estate/변수정의서.md,부동산_전처리_팀전달.zip/부동산_전처리_팀전달/변수정의서.md,,3900,134d52dafdf92bc5e2861fe588698d00942cc4e34925fdef95642cc145f5d752
+docs/preprocessing/real_estate/처리기준서.md,부동산_전처리_팀전달.zip/부동산_전처리_팀전달/처리기준서.md,,4237,716476b0b6c0b9b57c350832cd9d2d8c0b09a375c5c54d04e2ad00889cbdf678
+docs/preprocessing/기타_자원환경_동물_최종처리기준.md,"(기타, 자원환경, 동물)먼저읽기_최종처리기준.md",제공본 보존; 최신 적용 기준은 현재상태 문서 참조,5585,3cd86eeb7a79bc4e8e68848da7a86731394483ab4386e1cc208ffdcc192a98bc
+docs/preprocessing/생활건강_전처리규칙.md,생활건강_전처리규칙.md,제공본 보존; 최신 적용 기준은 현재상태 문서 참조,11452,3935903d1b0e59aee3690997eeeaa5c69cba2b9cde0e3e21dc30c58ea193ec35
+docs/preprocessing/생활건강_카드업종연결.md,생활건강_카드업종연결.md,제공본 보존; 최신 적용 기준은 현재상태 문서 참조,7286,66a42b39c9be3fe4c8ea8b89515ba131152daf7da3d6afefcbc669d51bde9356
+docs/security/보안_참고자료_출처목록_원본.md,보안_참고자료_출처목록.md,제공본 보존; 최신 적용 기준은 현재상태 문서 참조,5953,c909d8f3f25157badd82fccddd436710b61e0d89cc123be3fb24e96996b9482a
+docs/모델링전_작업흐름.md,정리 작성,,2035,66981a7b669993fe959aa9015facc828dabb40b4967efceca153e8500ad6624d
+docs/업로드_검수결과.csv,2차 검토 작성,,1129,529ccd8b0a6ad79f08ef4826898ee2d89f55f95b602d98ba470411c5b507a7c9
+docs/정리_변경내역.md,작성 문서,,1514,7e9f6c0f37005695611bb806955cb580612a93faf79487a4e8c58841bd98689a
+docs/현재상태_및_추가할파일.md,작성 문서,,4087,298c963507c9e2a77bbc0b8a333d87c504b8c098da238fa7b8204527dbb1101e
+notebooks/collection/extract.ipynb,기존 GitHub/extract.ipynb,실행 출력 2개 초기화; 데이터 없이 미실행,4097,64d0d61778fce072e054700c4dd36393c72e9fc79a97a8ad56f3dbd55a1e2e85
+notebooks/collection/test_data.ipynb,test_data.ipynb,실행 출력 3개 초기화; 데이터 없이 미실행,8195,38fcdebca78f38dc38f76e3e9b325be41441ffc3c9f40ef0dcf8a453793cd417
+notebooks/eda/01_카드_파생지표_EDA.ipynb,01_카드_파생지표_EDA.ipynb,출력 초기화·검토 주석 추가; 계산 코드·해석 원문 유지; 재실행 미실시,36558,8adb72576d612cbb71b8e9df303aed3f0c41ad69374344ff7525863b7a352db3
+notebooks/eda/02_통신_파생지표_EDA.ipynb,02_통신_파생지표_EDA(1).ipynb,출력 초기화·검토 주석 추가; 계산 코드·해석 원문 유지; 재실행 미실시,29365,a7abcc519ca65739691962427c7227a2a9b304bac5e37b7d384a2bd5a5705d53
+notebooks/eda/03_카드통신_합치기_EDA.ipynb,03_카드통신_합치기_EDA(1).ipynb,출력 초기화·검토 주석 추가; 계산 코드·해석 원문 유지; 재실행 미실시,22876,cf61e6a50e0530c92ad7f85367c70d6632295d2b622c978bb917096f1b8b3f02
+notebooks/eda/인구방문관광_통합EDA.ipynb,이채우_3개자료_EDA_최종전달_20261028_164025.zip/02_통합EDA_작업노트북.ipynb,실행 출력 91개 초기화; 데이터 없이 미실행,141387,84dfdfa226cd12e6416d4027876e1529578ab4c9c046ddf844e689c562fedb9a
+notebooks/eda/인허가 eda.ipynb,전처리코드-20261030T040224Z-1-001.zip/전처리코드/인허가 eda.ipynb,실행 출력 17개 초기화; 데이터 없이 미실행,20541,c743584537da1e55e2327c74f628a8067391f81866283617e3a76f7dfe6d84e5
+notebooks/eda/인허가eda.ipynb,전처리코드-20261030T040224Z-1-001.zip/전처리코드/인허가eda.ipynb,실행 출력 34개 초기화; 데이터 없이 미실행,48093,813f53443b7e31dbb521c6e40a8144b4e10e88b5d61f49e3d07c2fb22d928dab
+notebooks/preprocessing/README.md,2차 검토 작성,,1018,f5e9e3f179fd5a33666a9effb7a0a304479583a995be3893bd6665f939106161
+notebooks/preprocessing/원본CSV_병합점검.ipynb,전처리코드-20261030T040224Z-1-001.zip/전처리코드/Untitled1.ipynb,실행 출력 3개 초기화; 데이터 없이 미실행; 파일명 정리(내용 동일),6904,e56e80f69f9f7ea3c80fdef37a6f639c2d46dacbd14d08ed144810454fc4c249
+notebooks/preprocessing/인허가 마무리.ipynb,전처리코드-20261030T040224Z-1-001.zip/전처리코드/인허가 마무리.ipynb,실행 출력 26개 초기화; 데이터 없이 미실행,42874,208237c9cde9dc8f5ba2eb164f9b88823524670b6074a43eaa198162d6333b7c
+notebooks/preprocessing/인허가 파생지표.ipynb,전처리코드-20261030T040224Z-1-001.zip/전처리코드/인허가 파생지표.ipynb,실행 출력 20개 초기화; 데이터 없이 미실행,56704,9ec4235dad3872870c04c1c9d18845ae0a7207ba07b10e5c46ff78db3bd6abe9
+notebooks/preprocessing/인허가_ram안터지는방법.ipynb,전처리코드-20261030T040224Z-1-001.zip/전처리코드/인허가_ram안터지는방법.ipynb,실행 출력 20개 초기화; 데이터 없이 미실행,38346,0fe50def97bb20b80d8455aa4325e5fec9090c9b6ddd0cb19b828b6fe2db4575
+notebooks/preprocessing/인허가_작업용처리.ipynb,전처리코드-20261030T040224Z-1-001.zip/전처리코드/인허가_작업용처리.ipynb,실행 출력 24개 초기화; 데이터 없이 미실행,20448,ce448517e55b583a8d747c50fba02736768fc44a1fb5c4d004cd504e23de8c3f
+notebooks/preprocessing/인허가_전처리.ipynb,전처리코드-20261030T040224Z-1-001.zip/전처리코드/인허가_전처리.ipynb,실행 출력 24개 초기화; 데이터 없이 미실행,21296,9ad02bcc821b1086293b9eb1846162232abaff6b9c315bba1a31a36506449207
+notebooks/preprocessing/인허가_컬럼처리.ipynb,전처리코드-20261030T040224Z-1-001.zip/전처리코드/인허가_컬럼처리.ipynb,실행 출력 35개 초기화; 데이터 없이 미실행,21955,4d2114c410e0b87f3d228aa18955f3113842070bd75c42cd6637893001756687
+notebooks/preprocessing/인허가수집확인.ipynb,전처리코드-20261030T040224Z-1-001.zip/전처리코드/인허가수집확인.ipynb,실행 출력 17개 초기화; 데이터 없이 미실행,15596,905a2635bf7945498edb3424a9c7f0669efee0fe2af119ee21d2712e3041e9a9
+notebooks/preprocessing/인허가최종처리.ipynb,전처리코드-20261030T040224Z-1-001.zip/전처리코드/인허가최종처리.ipynb,실행 출력 32개 초기화; 데이터 없이 미실행,72153,ae6dc022ba1884b83f9c04f3d0e86bc9ac663fc13169d516ea2f76703caaa6bc
+notebooks/preprocessing/카드데이터컬럼수정.ipynb,전처리코드-20261030T040224Z-1-001.zip/전처리코드/카드데이터컬럼수정.ipynb,실행 출력 3개 초기화; 데이터 없이 미실행,5371,a29878e3e0f4c8ade495636acb43052e0079bb5fd7d2c9e649b249177853a76e
+notebooks/preprocessing/통신데이터 컬럼한국어변경.ipynb,전처리코드-20261030T040224Z-1-001.zip/전처리코드/통신데이터 컬럼한국어변경.ipynb,실행 출력 8개 초기화; 데이터 없이 미실행,7230,709297d08e6f607c53e0b81f53e5c93eb7d243504b8e3b4b90926514feb1b033
+reports/correlation/00_분석기준.txt,전체상관분석_20261030_010738.zip/00_분석기준.txt,,642,852e565bc160b1551c77fb3179047ce7df8a14ec69c63cef4f14b046e13c51a5
+reports/correlation/01_열역할분류.csv,전체상관분석_20261030_010738.zip/01_열역할분류.csv,,7805,5103d81b4abedd8f010e426f8bf2afa2849bb48ae758994b65eae81e21107702
+reports/correlation/02_학습월별행수.csv,전체상관분석_20261030_010738.zip/02_학습월별행수.csv,,410,a547b8dff2cabd546201bf4b73f2224be7a986f0ecf76ea1af63099c29dd52ac
+reports/correlation/03_변수별기초통계.csv,전체상관분석_20261030_010738.zip/03_변수별기초통계.csv,,4868,1bf153807be8a2b38e5541b1682b5ff9caf7817d9adea5136e339de9e8ff61b1
+reports/correlation/04_Pearson_상관행렬.csv,전체상관분석_20261030_010738.zip/04_Pearson_상관행렬.csv,,36640,894aad56b833534cdb1bde3331c0689ad3fc670fc411688a069d80563536493e
+reports/correlation/05_전체변수쌍_상관결과.csv,전체상관분석_20261030_010738.zip/05_전체변수쌍_상관결과.csv,,106993,1bc13d29fd41f07732709c2174ff053252b339f3426cc2e9fde0b4d6ba01415d
+reports/correlation/06_고상관_검토표.csv,전체상관분석_20261030_010738.zip/06_고상관_검토표.csv,,475,642dc0962ee749d18ba589b85cb77f2a352245972984b1f7010207151941e952
+reports/eda/인구방문관광_EDA_요약.pdf,이채우_3개자료_EDA_최종전달_20261028_164025.zip/03_EDA_그래프_통합요약.pdf,과거 EDA 결과; 최신 전체 모델 성능 아님,1305138,d029f97fada92c19fef89af0d77764a807dc977bfddc9fd98f70af8181195656
+reports/validation/부동산_검수표.csv,부동산_전처리_팀전달.zip/부동산_전처리_팀전달/검수표.csv,,3339,d69f1464080d3e9cff7159e3f378c8ca8faeeec1e072aca8f2f9f33e5eb5174e
+reports/validation/지역변수/3개자료_통합연결검수.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/3개자료_통합연결검수.csv,지역별·월별 요약 검수,163,47b43daac264b85f32a56641b5d65f35f7b70cd41206a97c8af07280d37655e3
+reports/validation/지역변수/3개자료_통합표_결측.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/3개자료_통합표_결측.csv,지역별·월별 요약 검수,437,84b83f412814dff911eaebed6cec718bccd29aed6a8228bbb6dc905e8571c48b
+reports/validation/지역변수/3개자료_통합표_월별결측.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/3개자료_통합표_월별결측.csv,지역별·월별 요약 검수,1137,da4f4459740744b69e4d89c469e5e63454e21c02c895b43d209ef7954568a371
+reports/validation/지역변수/값범위_검수.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/값범위_검수.csv,지역별·월별 요약 검수,512,ff5cc369f684077be62400dab299567c3321db9d70806ac9c717d269f9302712
+reports/validation/지역변수/고상관_변수쌍.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/고상관_변수쌍.csv,지역별·월별 요약 검수,228,ceaf5c2f706349e4bda49efd4555ae1f9ac3f28be602833d3c38f01437948cfa
+reports/validation/지역변수/구군별_비교.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/구군별_비교.csv,지역별·월별 요약 검수,3503,4f0c750df2bb8c13815a1c74c56e3917a3e24a163a762bad3ed0941d73108ddd
+reports/validation/지역변수/모델연결용_파일목록.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/모델연결용_파일목록.csv,지역별·월별 요약 검수,320,26229d2ea381e112677f22aff725b30f53a3376410b3be3e08b99e6e21c296dd
+reports/validation/지역변수/변수별_결측검수.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/변수별_결측검수.csv,지역별·월별 요약 검수,353,46e93e3b7d4a338ce7bc04fb8d6787f56007dcfefb2d89a24ab66196e5150cdc
+reports/validation/지역변수/변수별_기초통계.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/변수별_기초통계.csv,지역별·월별 요약 검수,1364,cb9989bc0b9904699a58a1332ce8521c26627feda1d53d2708188016730b7bae
+reports/validation/지역변수/업종별_비교.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/업종별_비교.csv,지역별·월별 요약 검수,18847,0b0d304c64efea219e0e84fba96591171bdf109fe06334233abc8d5c67f25e1d
+reports/validation/지역변수/업종별_연결검수.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/업종별_연결검수.csv,지역별·월별 요약 검수,723,bf5fdd893cdd29f6c632a8a890004ebdab2698b186569a1c64750bcf74346567
+reports/validation/지역변수/월별_결측검수.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/월별_결측검수.csv,지역별·월별 요약 검수,1020,331c2643dd1be6e116e9dacd58062f71397e5c8edf080dc478078719c3b2c6b1
+reports/validation/지역변수/월별_점포수_폐업비율.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/월별_점포수_폐업비율.csv,지역별·월별 요약 검수,1316,236ce29c3d8726e13384c6238efde9d9e028267c87971689a7c544043c16ab98
+reports/validation/지역변수/지표_상관행렬.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/지표_상관행렬.csv,지역별·월별 요약 검수,1644,f381f6812f9ac94e7430c4a5f44a136c2a216c8a0f4433ce3fd0a35ae14437f6
+reports/validation/지역변수/체크리스트_진행상태.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/체크리스트_진행상태.csv,지역별·월별 요약 검수,583,bf63e55607f2d44a144b2ca6eb31ceb920a6c8ab3bd944378ab1161b8f69c134
+reports/validation/지역변수/폐업월별_점포수.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/폐업월별_점포수.csv,지역별·월별 요약 검수,443,3df900a8c6ce47321c4a51675e0e1cc2b37c6f49cae5c19f5eed145e9cb1054f
+reports/validation/지역변수/폐업일_집중검토.csv,이채우_3개자료_EDA_최종전달_20261028_164025.zip/검수표/폐업일_집중검토.csv,지역별·월별 요약 검수,1021,21e290fd5939015a805fe7c2e97b2d13048feea6bf108ba2db9d4f3a94a2240a
+requirements.txt,작성 문서,,294,186f37e66258602ae7aeec774fba3ba13ffc7b3b87dbb358395781f9baf93150
+src/collection/datago.py,기존 GitHub/datago.py,,3422,ab7eb13ca84248d3fb81122f90750755c64c54b440acde495cf0cc3cc5fa890a
+src/preprocessing/real_estate/v04/build_overlap_v04.py,부산_상권경계_행정동연결_v04.zip/부산_상권경계_행정동연결_v04/build_overlap_v04.py,경로·입력 의존성 확인 필요; 실행 미검증,19846,c064d8757703eca76650db9f8922773a10d64686bdeb55a7c297eabf71da1191
+src/preprocessing/real_estate/v04/verify_overlap_v04.py,부산_상권경계_행정동연결_v04.zip/부산_상권경계_행정동연결_v04/verify_overlap_v04.py,경로·입력 의존성 확인 필요; 실행 미검증,3340,e128aaf919d9297e7b91f8b082e3a2d132ccd220a73ca6fba6b4f92f5fb56211
+src/preprocessing/real_estate/v05/build_link_v05.py,부산_부동산_값연결_v05.zip/부산_부동산_값연결_v05/build_link_v05.py,경로·입력 의존성 확인 필요; 실행 미검증,21984,f9fc32082f5e3fa538275e02181d625f47381f985056a13d2a81995d73e19f07
+src/preprocessing/real_estate/v05/build_weight_preview_v05.py,부산_부동산_값연결_v05.zip/부산_부동산_값연결_v05/build_weight_preview_v05.py,경로·입력 의존성 확인 필요; 실행 미검증,1396,9faaf06ca5fe4a8924911c5a24cf292eb9f882b12ce0cb51aa0b028c1605cfd0
+src/preprocessing/real_estate/v05/verify_v05.py,부산_부동산_값연결_v05.zip/부산_부동산_값연결_v05/verify_v05.py,경로·입력 의존성 확인 필요; 실행 미검증,5254,06c0c6191cd0237cf3eb8e50d070d6e981461e6657cfffbb42b9ff6c89f4a18d
+src/preprocessing/real_estate/v06/build_features_v06.py,부산_부동산_모델입력후보_v06.zip/부산_부동산_모델입력후보_v06/build_features_v06.py,경로·입력 의존성 확인 필요; 실행 미검증,21717,366fbe2abe89dda552af72fb0d68121a96cecf1cc20b50299c4f0ba8dbde39a2
+src/preprocessing/real_estate/v07/build_delivery_v07.py,부산_부동산_전달용_v07.zip/부산_부동산_전달용_v07/build_delivery_v07.py,경로·입력 의존성 확인 필요; 실행 미검증,11158,b9e89c23b06cf5bfb624dead0e1af37dc18fd367898cdca1cc47f1292fe0d087
+src/preprocessing/real_estate/v07/build_review_v07.py,부산_부동산_전달용_v07.zip/부산_부동산_전달용_v07/build_review_v07.py,경로·입력 의존성 확인 필요; 실행 미검증,13655,8e4f473cb16e26b60a88fc55c0ede9182a5464c145a2585e0182c4743e019914
+src/preprocessing/real_estate/v07/verify_v07.py,부산_부동산_전달용_v07.zip/부산_부동산_전달용_v07/verify_v07.py,경로·입력 의존성 확인 필요; 실행 미검증,9133,28da25e51f91d1f4a537cbd74d99000528ce5f3cd229950b367d87209c3e902f
